@@ -1,1 +1,4 @@
-# pemrograman_web_itera_121450073
+# Pemrograman Web ITERA
+# Rizki Adrian Bennovry
+# 121450073
+# Sains Data
