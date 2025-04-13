@@ -10,7 +10,7 @@ Aplikasi ini adalah personal dashboard interaktif untuk mahasiswa, khususnya unt
 - Menambahkan tugas beserta tanggal dan waktu deadline.
 - Menampilkan daftar tugas yang telah dimasukkan.
 - Fitur hapus tugas dari daftar.
-- (Coming Soon) Validasi waktu yang lebih baik dan simpan ke localStorage.
+- Validasi waktu yang lebih baik dan simpan ke localStorage.
 
 ### 🗓️ Jadwal Kuliah
 - Menampilkan jadwal mata kuliah Sains Data selama satu minggu.
@@ -50,7 +50,8 @@ Aplikasi ini adalah personal dashboard interaktif untuk mahasiswa, khususnya unt
 
 ## 📸 Screenshot Aplikasi
 
-![Screenshot Aplikasi](./image.png)
+![Screenshot Aplikasi](./![image](https://github.com/user-attachments/assets/2b3653be-5752-4039-a75c-b73f752bee4e)
+)
 
 ---
 
@@ -81,13 +82,3 @@ Aplikasi ini adalah personal dashboard interaktif untuk mahasiswa, khususnya unt
 Jika kamu mengalami bug seperti `undefined - Invalid Date`, pastikan format input tanggal dan waktu sudah benar atau tambahkan validasi tambahan di JavaScript.
 
 ---
-
-## 🔮 Pengembangan Selanjutnya (Optional)
-- Dark mode toggle
-- Penyimpanan tugas ke `localStorage`
-- Drag & drop untuk memindahkan urutan tugas
-- Export jadwal/tugas ke file `.pdf` atau `.ics`
-
----
-
-Terima kasih telah menggunakan aplikasi ini! 🎓🚀
