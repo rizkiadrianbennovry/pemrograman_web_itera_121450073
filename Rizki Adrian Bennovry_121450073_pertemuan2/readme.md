@@ -50,8 +50,7 @@ Aplikasi ini adalah personal dashboard interaktif untuk mahasiswa, khususnya unt
 
 ## 📸 Screenshot Aplikasi
 
-![Screenshot Aplikasi](./![image](https://github.com/user-attachments/assets/2b3653be-5752-4039-a75c-b73f752bee4e)
-)
+![Screenshot Aplikasi](![image](https://github.com/user-attachments/assets/1a26d9d8-9faa-4a74-8351-2a8cceee2457)
 
 ---
 
